@@ -1,7 +1,7 @@
 ## Oiii eu sou o Bruno Lima, estudante de programação e entusiasta de tecnologia!
 
 - 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas
-- 📘 Aperfeiçoamento em javascript/typescript
+- 📘 Aperfeiçoamento em javascript/typescript/Ruby/HTML/Bootstrap
 - 👨‍💼 Procuro estagio/emprego em front-end
 
 <div align="center">
