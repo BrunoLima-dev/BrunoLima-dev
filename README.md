@@ -2,7 +2,7 @@
 
 - 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas
 - 📘 Aperfeiçoamento em javascript/typescript/Ruby/HTML/Bootstrap
-- 👨‍💼 Procuro estagio/emprego em front-end
+- 👨‍💼 Procuro estagio/emprego em front-end  ou back-end
 
 <div align="center">
   <a href="https://github.com/BrunoLima-dev/brunolima">
