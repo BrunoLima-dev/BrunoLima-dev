@@ -1,7 +1,8 @@
-## Oiii eu sou o Bruno Lima, estudante de programação e trabalho meio periodo com a linguagem Ruby on rails!
+## Oiii eu sou o Bruno Lima, estudante de programação e trabalho meio periodo com a linguagem Ruby on rails! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas
 - 📘 Aperfeiçoamento em javascript/typescript/Ruby/HTML/Bootstrap
+- 📲 Front-end Mobile com React Native 
 - 👨‍💼 Procuro estagio/emprego em front-end  ou back-end
 
 <div align="center">
