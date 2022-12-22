@@ -3,7 +3,7 @@
 - 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas
 - 📘 Aperfeiçoamento em javascript/typescript/Ruby/HTML/Bootstrap
 - 📲 Front-end Mobile com React Native 
-- 👨‍💼 Procuro estagio/emprego em front-end  ou back-end
+- 👨‍💼 Procuro estagio/emprego em front-end  ou back-end preferência (front-end)
 
 <div align="center">
   <a href="https://github.com/BrunoLima-dev/brunolima">
