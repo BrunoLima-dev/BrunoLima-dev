@@ -11,9 +11,8 @@
 ##
 
 - 🎓 Estou me formando em Analise e Desenvolvimento de Sistemas
-- 📘 Aperfeiçoamento em javascript/typescript/Ruby/HTML/Bootstrap
-- 📲 Front-end Mobile com React Native 
-- 👨‍💼 Procuro estagio/emprego em front-end  ou back-end preferência (front-end)
+- 📘 trabalhando com javascript/typescript/ajax/css/RubyOnRails/HTML/Bootstrap/Postgresql
+- 👨‍💼 Contato: (85) 98966-5885
 
 <div align="center">
   <a href="https://github.com/BrunoLima-dev/brunolima">
