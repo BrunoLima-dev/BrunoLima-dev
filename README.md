@@ -1,4 +1,4 @@
-## Oiii eu sou o Bruno Lima, estudante de programação e trabalho meio periodo com a linguagem Ruby on rails e outras tecnologias! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+## Oiii eu sou o Bruno Lima, Formado em Análise e Desenvolvimento de Sistemas, trabalho com a linguagem Ruby on rails e outras tecnologias! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 #### Visitas ao perfil:
 
