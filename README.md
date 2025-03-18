@@ -11,7 +11,8 @@
 ##
 
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
-- 📘 trabalhando com javascript/typescript/ajax/css/RubyOnRails/HTML/Bootstrap/Postgresql
+- 📘 trabalhando com javascript/typescript/ajax/css/RubyOnRails/Test com Rspec/HTML/Bootstrap/
+   Postgresql/Reacj/swagger
 - 👨‍💼 Contato: (85) 98966-5885
 
 <div align="center">
